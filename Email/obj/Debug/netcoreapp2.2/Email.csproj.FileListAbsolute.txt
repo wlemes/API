@@ -1,0 +1,14 @@
+C:\Users\AiltonPereira\source\repos\Email\Email\bin\Debug\netcoreapp2.2\Email.deps.json
+C:\Users\AiltonPereira\source\repos\Email\Email\bin\Debug\netcoreapp2.2\Email.runtimeconfig.json
+C:\Users\AiltonPereira\source\repos\Email\Email\bin\Debug\netcoreapp2.2\Email.runtimeconfig.dev.json
+C:\Users\AiltonPereira\source\repos\Email\Email\bin\Debug\netcoreapp2.2\Email.dll
+C:\Users\AiltonPereira\source\repos\Email\Email\obj\Debug\netcoreapp2.2\Email.csprojAssemblyReference.cache
+C:\Users\AiltonPereira\source\repos\Email\Email\obj\Debug\netcoreapp2.2\Email.csproj.CoreCompileInputs.cache
+C:\Users\AiltonPereira\source\repos\Email\Email\obj\Debug\netcoreapp2.2\Email.RazorAssemblyInfo.cache
+C:\Users\AiltonPereira\source\repos\Email\Email\obj\Debug\netcoreapp2.2\Email.RazorAssemblyInfo.cs
+C:\Users\AiltonPereira\source\repos\Email\Email\obj\Debug\netcoreapp2.2\Email.AssemblyInfoInputs.cache
+C:\Users\AiltonPereira\source\repos\Email\Email\obj\Debug\netcoreapp2.2\Email.AssemblyInfo.cs
+C:\Users\AiltonPereira\source\repos\Email\Email\obj\Debug\netcoreapp2.2\Email.RazorTargetAssemblyInfo.cache
+C:\Users\AiltonPereira\source\repos\Email\Email\bin\Debug\netcoreapp2.2\Email.pdb
+C:\Users\AiltonPereira\source\repos\Email\Email\obj\Debug\netcoreapp2.2\Email.dll
+C:\Users\AiltonPereira\source\repos\Email\Email\obj\Debug\netcoreapp2.2\Email.pdb
